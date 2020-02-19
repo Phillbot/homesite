@@ -1,0 +1,22 @@
+[
+  {
+    "link": "/about",
+    "text": "About",
+    "icon": "person"
+  },
+  {
+    "link": "/experience",
+    "text": "Experience",
+    "icon": "code"
+  },
+  {
+    "link": "/hobbies",
+    "text": "Hobbies",
+    "icon": "computer"
+  },
+  {
+    "link": "/contacts",
+    "text": "Contacts",
+    "icon": "perm_contact_calendar"
+  }
+]
